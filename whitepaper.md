@@ -1,4 +1,3 @@
-<img src="https://raw.githubusercontent.com/overstreet-ai/assets/main/ovestreet-screenshot.png" title="Overstreet website" />
 
 # The Overstreet Project: A Decentralized Artificial Intelligence-Powered Blockchain Platform for the Real Estate Industry
 
